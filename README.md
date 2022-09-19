@@ -16,5 +16,6 @@ Configuramos del grupo de seguridad de aplicaciones para ello buscamos el grupo 
 ![Imagen 3](https://github.com/aldodanielle/Prac6_ASG/blob/main/Imgenes/P3.png)
 -------------------------------------------------------------------------------
 ## Nota:
+------------------------------------------------------------------------------
 Todo lo que realice en una VM se va a replicar en las otras VM creadas siempre y cuando está asociada a el grupo de seguridad de aplicaciones como Directivas e incluso excluir a cierto grupo de siempre y cuando se mantenga en el ASG.
 -------------------------------------------------------------------------------
